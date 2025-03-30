@@ -36,7 +36,3 @@ This presentation is built using [slides](https://github.com/maaslalani/slides),
 ## Images
 
 All images in this repository are used with permission or are in the public domain. The ASCII art representations were generated using the `chafa` tool.
-
-## License
-
-This presentation is available under the MIT License. See the LICENSE file for details. 
