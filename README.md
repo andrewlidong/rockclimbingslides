@@ -1,4 +1,4 @@
-# Rock Climbing: A Journey to New Heights
+# Rock Climbing
 
 A 15-minute introduction to rock climbing, presented at Recurse Center. This presentation covers the basics of rock climbing, including:
 
